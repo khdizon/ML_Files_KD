@@ -5,25 +5,36 @@ Version  | Date | Author | Notes |
 0.1 |19 July 2023| Ken Dizon | Initial version
 
 **Objective**
-
-Write a sample ML script for initial start up
+Write a sample ML script for the initial start-up
 
 - Libraries
 - Type of Machine Learning + Algorithms
- 
+- 
+______
+### TYPES: Supervised vs Unsupervised
+- Supervised
+    - Regression: predicts tredns using labled data
+    - Classification: classifies labled data
+- Unsupervised
+    - Clustering: finds patterns and groupings from unlabeled data
+
 ### ML
 
 ML Problem | Types | Case Prediction | 
 :---------:|:-----:|:---------------:|
 Regression | Simple, Multiple | continuos numerical value |
 Classification | Binary, Multi-class | class label for unlabled test case | 
-Clustering |
+Clustering | ... | grouping data points by similarity |
 
 
 ### Algorithms
 Regression | Classification | Clustering | 
 :---------:|:--------------:|:----------:|
-ordinal, poisson, linear, polynomial, lasso, bayesian, NNR, decision forest, KNNR | DT, naive bayes, KNN, logistic, NN, SVM | 
+ordinal, poisson, linear, polynomial, lasso, bayesian, NNR, decsion forest, KNNR | DT, naive bayes, KNN, logistic, NN, SVM | 
+
+### Table structure 
+- `Columns` = Attributes [Vertical]
+- `Rows` = Features [Horizontal]
 
 ______________________
 #### General Content
