@@ -33,8 +33,8 @@ Regression | Classification | Clustering |
 ordinal, poisson, linear, polynomial, lasso, bayesian, NNR, decsion forest, KNNR | DT, naive bayes, KNN, logistic, NN, SVM | 
 
 ### Table structure 
-- `Columns` = Attributes [Vertical]
-- `Rows` = Features [Horizontal]
+- `Columns` = Features [Vertical]
+- `Rows` = Attributes [Horizontal]
 
 ______________________
 #### General Content
@@ -47,3 +47,17 @@ ______________________
 4. **Model Selection**
 5. **Model Training**
 5. **Model Evaluation**
+
+______
+# Models & Evaluation 
+
+### Regression 
+Model | Evaluation | 
+:----:|:----------:|
+Linear Regression | RSS, Variance Score |
+Regression Tree | mse, mae accuracy | 
+
+### Classification 
+Model | Evaluation | 
+:----:|:----------:|
+DT | DT Accuracy |
