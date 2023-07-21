@@ -9,7 +9,7 @@ Write a sample ML script for the initial start-up
 
 - Libraries
 - Type of Machine Learning + Algorithms
-- 
+- Models & Evaluation
 ______
 ### TYPES: Supervised vs Unsupervised
 - Supervised
@@ -55,7 +55,7 @@ ______
 Model | Evaluation | 
 :----:|:----------:|
 Linear Regression | RSS, Variance Score |
-Regression Tree | mse, mae accuracy | 
+Decision Tree Regression [DTR] | mse, mae accuracy | 
 
 ### Classification 
 Model | Evaluation | 
