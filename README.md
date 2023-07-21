@@ -13,8 +13,8 @@ Write a sample ML script for the initial start-up
 ______
 ### TYPES: Supervised vs Unsupervised
 - Supervised
-    - Regression: predicts tredns using labled data
-    - Classification: classifies labled data
+    - Regression: predicts trends using labeled data
+    - Classification: classifies labeled data
 - Unsupervised
     - Clustering: finds patterns and groupings from unlabeled data
 
@@ -61,3 +61,6 @@ Decision Tree Regression [DTR] | mse, mae accuracy |
 Model | Evaluation | 
 :----:|:----------:|
 DT | DT Accuracy |
+KNN | mean acc, std acc |
+Logistic Regression | ...|
+
