@@ -1,4 +1,9 @@
-# Libraries
+#  Libraries - Machine Learning
+
+Version  | Date | Author | Notes |
+:-------:|:----:|:-------|:-----:|
+0.1 |23 July 2023| Ken Dizon | Initial version |
+
 try:
     import numpy as np #math library 
     import scipy #computation
