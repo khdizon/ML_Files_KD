@@ -5,7 +5,8 @@ Version  | Date | Author | Notes |
 0.1 |19 July 2023| Ken Dizon | Initial version
 0.2 |26 July 2023| Ken Dizon | Refined all ML categories
 
-**Objective:** write a sample ML script for intital start up
+**Objective:** write a sample ML script for initial start up
+
 **CONTENT**
 - Libraries
 - Types of Machine Learning
@@ -20,8 +21,8 @@ ____________________________
 
 ## TYPES: Supervised vs Unsupervised
 - Supervised
-    - Regression: predicts trends using labled data
-    - Classification: classifies labled data
+    - Regression: predicts trends using labeled data
+    - Classification: classifies labeled data
 - Unsupervised
     - Clustering: finds patterns and groupings from unlabeled data
 
@@ -37,7 +38,7 @@ Clustering | Partitioned, Hierarchial, Density | grouping data points by similar
 ### Algorithms
 Regression | Classification | Clustering | 
 :---------|:--------------|:----------|
-ordinal, poisson, linear, polynomial, lasso, bayesian, NNR, decsion forest, KNNR | DT, naive bayes, Linear discriminant anlysis, KNN, logistic regression, NN, SVM | 
+ordinal, poisson, linear, polynomial, lasso, bayesian, NNR, decision forest, KNNR | DT, naive bayes, Linear discriminant analysis, KNN, logistic regression, NN, SVM | 
 ______________________________
 ## Use Cases
 
@@ -55,14 +56,14 @@ ______________________________
 
 Regression Model | Evaluation | Selection | 
 :----|:----------|:----|
-Linear Regression | RSS, Variance Score | Influence of Xs to predict a continious numeric Y value|
+Linear Regression | RSS, Variance Score | Influence of Xs to predict a continuous numeric Y value|
 Decision Tree Regression [DTR] | mse, mae accuracy | ... |
 Multiclass Prediction | ... | ... |
 
 
 Classification Model | Evaluation | Uses |
 :----|:----------|:----|
-DT | DT classification Accuracy | Categorical identification based on charactersitics |
+DT | DT classification Accuracy | Categorical identification based on characteristics |
 KNN | mean acc, std acc | ...|
 Logistic Regression | Jaccard index, Confusion matrix (F1-score), logloss | predict probability of categorical dependent variable |
 SVM | ... | Image recognition, text category assignment, detecting spam, sentiment analysis, gene expression |
