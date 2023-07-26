@@ -6,7 +6,7 @@ Version  | Date | Author | Notes |
 0.2 |26 July 2023| Ken Dizon | Refined all ML categories
 
 **Objective:** write a sample ML script for intital start up
-
+**CONTENT**
 - Libraries
 - Types of Machine Learning
     * Algorithms
@@ -15,6 +15,7 @@ Version  | Date | Author | Notes |
     * Classification
     * Clustering
 - Models & Math
+- Startup sample content
 ____________________________
 
 ## TYPES: Supervised vs Unsupervised
